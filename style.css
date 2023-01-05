@@ -1,0 +1,62 @@
+*{
+    background-color: white;
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: aqua;
+    font-family: sans-serif;
+
+}
+
+#number{
+    text-align: right;
+    font-size: xx-large;
+    border: 1px solid black;
+    width: fit-content;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+#btnarea{
+    
+    align-content: center;
+    align-items: center;
+    width: 50%;
+    height: auto;
+    margin: auto;
+    
+}
+button{
+    margin: 10px;
+    padding: 25px 60px;
+    border: 1px solid black;
+    border-radius: 25px;
+    width: min-content;
+    font-size: 25px;
+    
+
+}
+#mem{
+    padding: 25px 50px;
+    font-size: 25px;
+    border-radius: 25px;
+}
+#eqal{
+    padding: 25px 135px;
+    font-size: 25px;
+    border-radius: 25px;
+}
+#present{
+    padding: 25px 50px;
+    font-size: 25px;
+    border-radius: 25px;
+}
+
+#history{
+    font-size: 20px;
+    color: gray;
+}
